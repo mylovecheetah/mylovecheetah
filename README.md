@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mylovecheetah
 - 👀 I’m interested in wild animals.
-- 🌱 I’m currently learning conmunication engineering.
+- 🌱 I’m currently learning communication engineering.
 
 <!---
 mylovecheetah/mylovecheetah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
